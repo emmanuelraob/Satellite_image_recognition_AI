@@ -1,6 +1,6 @@
 # Satellite Image Recognition AI
 
-![Project Image](/Satellite_image_recognition_AI/readme_content/image%2044.png)
+![Project Image](readme_content/image44.png)
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
@@ -11,19 +11,13 @@
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Usage](#usage)
-- [Model Training](#model-training)
-- [Evaluation](#evaluation)
-- [Deployment](#deployment)
-- [Contributing](#contributing)
 - [License](#license)
-- [Acknowledgements](#acknowledgements)
 
 ## Introduction
 
 The Satellite Image Recognition AI is a project that uses Python, TensorFlow, and Keras to identify and segment different structures and objects in satellite images. This AI model can recognize buildings, vegetation, water bodies, land, streets, and more in satellite imagery.
 
-![Example Output](/Satellite_image_recognition_AI/readme_content/image%2034.png)
+![Example Output](readme_content/image34.png)
 
 ## Features
 
